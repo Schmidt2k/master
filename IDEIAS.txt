@@ -1,0 +1,5 @@
+Aplicativos:
+	Clima tempo
+	Bíblia
+	MP4
+	
