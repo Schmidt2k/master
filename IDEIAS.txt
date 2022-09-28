@@ -2,4 +2,5 @@ Aplicativos:
 	Clima tempo
 	Bíblia
 	MP4
+	Academia
 	
